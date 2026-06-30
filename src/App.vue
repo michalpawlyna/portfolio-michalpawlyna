@@ -7,6 +7,7 @@ import SkillsSection from './components/SkillsSection.vue'
 import ProjectsSection from './components/ProjectsSection.vue'
 import ContactSection from './components/ContactSection.vue'
 import Footer from './components/Footer.vue'
+import { Analytics } from '@vercel/analytics/vue';
 
 onMounted(() => {
   // Enable dark mode
@@ -15,6 +16,7 @@ onMounted(() => {
 </script>
 
 <template>
+  <Analytics />
   <div class="dark">
     <NavBar />
     <HeroSection />
