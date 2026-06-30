@@ -133,7 +133,7 @@ const closeMenu = () => {
               aria-label="Download CV"
               :aria-expanded="isDropdownOpen"
             >
-              <span class="cv-btn__label">Download CV</span>
+              <span class="cv-btn__label">CV</span>
               <span class="cv-btn__icon" aria-hidden="true">
                 <svg width="14" height="14" viewBox="0 0 24 24" fill="none"
                   stroke="currentColor" stroke-width="2"

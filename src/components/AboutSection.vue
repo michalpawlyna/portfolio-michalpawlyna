@@ -14,7 +14,7 @@ const aboutData = {
   gain valuable industry experience.`,
   image: pfpImage,
   highlights: [
-    'Fresh Computer Science graduate',
+    'Computer Science graduate',
     'Full-stack development',
     'UI/UX focused',
     'Mobile & Web Developer'
