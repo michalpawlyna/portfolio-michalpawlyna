@@ -48,7 +48,7 @@ const projects = [
       'Mobile gym app. Still in progress.',
     image: project5,
     tags: ['React Native', 'Expo', 'Firebase',],
-    link: 'https://github.com/michalpawlyna/flutter_map_app',
+    link: '',
   },
 ]
 </script>
