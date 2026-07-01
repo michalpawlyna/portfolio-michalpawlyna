@@ -6,7 +6,8 @@ import project1 from '../assets/project1.jpg'
 import project2 from '../assets/project2.jpg'
 import project3 from '../assets/project3.jpg'
 import project4 from '../assets/project4.png'
-import project5 from '../assets/project5.jpg'
+import project5 from '../assets/project5.png'
+import project6 from '../assets/project6.jpg'
 
 
 const projects = [
@@ -43,10 +44,18 @@ const projects = [
   link: '',
   },
   {
+    title: 'Arduino Tetris Controller',
+    description:
+      'This project combines Arduino hardware with a desktop Tetris game to create an interactive gaming experience. A joystick, LCD, buzzer, and external controls replace the traditional keyboard while communicating with the game over USB serial.',
+    image: project5,
+    tags: ['Arduino', 'Python', 'Hardware',],
+    link: '',
+  },
+  {
     title: 'Essence App',
     description:
       'Mobile gym app. Still in progress.',
-    image: project5,
+    image: project6,
     tags: ['React Native', 'Expo', 'Firebase',],
     link: '',
   },
