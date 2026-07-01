@@ -49,7 +49,7 @@ const projects = [
       'This project combines Arduino hardware with a desktop Tetris game to create an interactive gaming experience. A joystick, LCD, buzzer, and external controls replace the traditional keyboard while communicating with the game over USB serial.',
     image: project5,
     tags: ['Arduino', 'Python', 'Hardware',],
-    link: '',
+    link: 'https://github.com/michalpawlyna/arduino-tetris',
   },
   {
     title: 'Essence App',
